@@ -55,6 +55,11 @@ table {
 body {
   background: lightBlue;
   font-family: arial;
+	background-image: url("achtergrond.png");
+	background-repeat: no-repeat;
+	background-size: 30vw;
+	background-position: center 18vw;
+
 }
 
 h1 {
@@ -77,10 +82,7 @@ font-size: 20px;
 
 .menuItem {
   margin: 15px 0;
-}
-
-
-
+}aaaaaaa
 p {
   padding: 0;
   color:333;
@@ -98,6 +100,6 @@ li {
 }
 
 img {
-  width: 50%;
+  width: 18%;
   float: right;
 }
