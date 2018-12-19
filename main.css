@@ -53,12 +53,12 @@ table {
 /* END CSS RESET */
 
 body {
-  background: lightBlue;
+  background: rgb(199, 178, 178);
   font-family: arial;
 	background-image: url("achtergrond.png");
 	background-repeat: no-repeat;
 	background-size: 30vw;
-	background-position: center 18vw;
+	background-position: center 30vw;
 
 }
 
@@ -82,14 +82,14 @@ font-size: 20px;
 
 .menuItem {
   margin: 15px 0;
-}aaaaaaa
+}
 p {
   padding: 0;
   color:333;
 font-size: small;
 }
 .link1 {
-  background: lightBlue;
+  background: rgb(199, 178, 178);
   color: 333;
 }
 li {
